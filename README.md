@@ -30,15 +30,17 @@ My name is Fah'd Abdulrazzaq, I'm a DevOps Engineer,Technical Writer,Open Source
 
 
 In my project repos you'll find a wide range of self-written scripts and modules which showcase my skills with CI/CD. From Ansible to Terraform,Jankinsfiles and Bash Scripts.
+
 I am very eager to showcase my skills and projects so feel free to have a good look around.
 
 I am constantly learning and sharpening my skills. I update the scripts regularly with new features.
 
-# [My Resume](https://docs.google.com/document/d/1ExBk_WjwPBUsgyOG6AqTxZya6EkmcZogsNtl1JGJHoo/edit?usp=sharing)
+# Find my resume [here](https://docs.google.com/document/d/1ExBk_WjwPBUsgyOG6AqTxZya6EkmcZogsNtl1JGJHoo/edit?usp=sharing)
 
- <h2 align= "center"> Enjoy your stay!</h2> 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahd-abdulrazzaq&langs_count=8&layout=compact&hide_border=true" alt="My Stats" /> |
+
+   <h2 align= "center"> Enjoy your stay!</h2> 
 
 ---
 
